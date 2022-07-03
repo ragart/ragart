@@ -1,3 +1,3 @@
 # Hi, I'm Salva!
 
-Full-stack developer from Barcelona.
+I'm a learning and language technologist from Barcelona, Spain.
