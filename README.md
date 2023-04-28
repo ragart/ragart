@@ -1,11 +1,12 @@
 # Hi, I'm Salva!
 
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-I'm a learning and language technologist from Barcelona, Spain.
+I'm a Learning and Language technologist from Barcelona, Spain.
 
-I'm currently working as the Head of Educational Technology and Translation at [Fundación Universitaria Iberoamericana (FUNIBER)](https://github.com/funiber-edtech).
+I'm currently working as the Head of [Educational Technology](https://github.com/funiber-edtech) and [Translation](https://github.com/funiber-trad) at Fundación Universitaria Iberoamericana (FUNIBER).
 
 I have a Bachelor's degree in Translation and Interpreting from [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/) and I'm studying a Master's degree in Game Design and Programming at [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/).
 
