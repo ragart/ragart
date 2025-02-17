@@ -1,12 +1,12 @@
 # Hi, I'm Salva!
 
-![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
-![THU & King Mentorship Program](https://img.shields.io/badge/THU%20&%20King%20Mentorship%20Program-2024-ff69b4)
+[![THU & King Mentorship Program](https://img.shields.io/badge/THU%20&%20King%20Mentorship%20Program-2024-ff69b4)](#)
 
 I'm a **technologist specializing in Learning & Language technologies** and a **narrative designer passionate about crafting immersive experiences**, based in Barcelona, Spain.
 
@@ -45,50 +45,50 @@ Here are the tools and technologies I use across different fields, from game dev
 
 #### 💻 **Development environment**
 
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-E95420?logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![WSL](https://img.shields.io/badge/WSL-E95420?logo=ubuntu&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 #### 🛠️ **IDEs & Tools**
 
-![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
-![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)
+[![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)](#)
+[![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### 🔄 Project Management and Collaboration
 
-![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](#)
+[![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)](#)
+[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](#)
+[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)](#)
 
 #### 🎮 **Game Design & Development**
 
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=renpy&logoColor=white)
-![Twine](https://img.shields.io/badge/Twine-000000?logoColor=white)
-![Ink](https://img.shields.io/badge/Ink-000000?logoColor=white)
-![Articy Draft X](https://img.shields.io/badge/Articy%20Draft%20X-000000?logoColor=white)
+[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](#)
+[![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?logo=renpy&logoColor=white)](#)
+[![Twine](https://img.shields.io/badge/Twine-000000?logoColor=white)](#)
+[![Ink](https://img.shields.io/badge/Ink-000000?logoColor=white)](#)
+[![Articy Draft X](https://img.shields.io/badge/Articy%20Draft%20X-000000?logoColor=white)](#)
 
 #### 🌐 **Web Development**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4584B6?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-4584B6?logo=python&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 
 #### 📚 **Learning Technologies**
 
-![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)
+[![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)](#)
 
 #### 📊 **Data Analysis**
 
-![Dataiku](https://img.shields.io/badge/Dataiku-000000?logo=dataiku&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+[![Dataiku](https://img.shields.io/badge/Dataiku-000000?logo=dataiku&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](#)
