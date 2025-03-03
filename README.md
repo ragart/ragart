@@ -12,11 +12,11 @@ I'm a **technologist specializing in Learning & Language technologies** and a **
 
 ### 🚀 **Current Projects**
 
-I am the Head of **[Educational Technology](https://github.com/funiber-edtech)** and **[Translation](https://github.com/funiber-trad)** at Fundación Universitaria Iberoamericana (FUNIBER), where I work at the intersection of **technology, learning, and language** and lead projects that aim to **enhance education through digital tools**. I am also exploring ways to integrate **game development** and **gamification** into educational technology.
+I am the Head of Educational Technology and Translation at Fundación Universitaria Iberoamericana (FUNIBER), where I work at the intersection of **technology, learning, and language** and lead projects that aim to **enhance education through digital tools**. I am also exploring ways to integrate **game development** and **gamification** into educational technology.
 
 Right now, I'm also part of a **Mentorship Program** with [Trojan Horse was a Unicorn](https://www.trojan-unicorn.com/) and [King](https://www.king.com/), focusing on game design and development.
 
-You can find my software projects here on GitHub, as well as on [ragart-uoc](https://github.com/ragart-uoc) for my academic work, and on [funiber-edtech](https://github.com/funiber-edtech) and [funiber-trad](https://github.com/funiber-trad) for my professional projects in educational technology and translation.
+You can find my software projects here on GitHub, as well as on [ragart-uoc](https://github.com/ragart-uoc) for my academic work, and on [funiber-edtech](https://github.com/funiber-edtech) for my professional projects in educational technology and translation.
 
 ### 🎓 **Education & Skills**
 
