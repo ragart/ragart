@@ -12,7 +12,7 @@ I'm a **technologist specializing in Learning & Language technologies** and a **
 
 ### 🚀 **Current Projects**
 
-I am the Head of Educational Technology and Translation at Fundación Universitaria Iberoamericana (FUNIBER), where I work at the intersection of **technology, learning, and language** and lead projects that aim to **enhance education through digital tools**. I am also exploring ways to integrate **game development** and **gamification** into educational technology.
+I am the **Head of Educational Technology and Translation** at [Fundación Universitaria Iberoamericana (FUNIBER)](https://www.funiber.org/), where I work at the intersection of **technology, learning, and language** and lead projects that aim to **enhance education through digital tools**. I am also exploring ways to integrate **game development** and **gamification** into educational technology.
 
 Right now, I'm also part of a **Mentorship Program** with [Trojan Horse was a Unicorn](https://www.trojan-unicorn.com/) and [King](https://www.king.com/), focusing on game design and development.
 
