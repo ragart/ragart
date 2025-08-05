@@ -6,7 +6,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
-[![THU & King Mentorship Program](https://img.shields.io/badge/THU%20&%20King%20Mentorship%20Program-2024-ff69b4)](#)
+[![THU & King Mentorship Program](https://img.shields.io/badge/THU%20&%20King%20Mentorship%20Program-2024/25-ff69b4)](#)
 
 I'm a **technologist specializing in Learning & Language technologies** and a **narrative designer passionate about crafting immersive experiences**, based in Barcelona, Spain.
 
@@ -14,13 +14,13 @@ I'm a **technologist specializing in Learning & Language technologies** and a **
 
 I am the **Head of Educational Technology and Translation** at [Fundación Universitaria Iberoamericana (FUNIBER)](https://www.funiber.org/), where I work at the intersection of **technology, learning, and language** and lead projects that aim to **enhance education through digital tools**. I am also exploring ways to integrate **game development** and **gamification** into educational technology.
 
-Right now, I'm also part of a **Mentorship Program** with [Trojan Horse was a Unicorn](https://www.trojan-unicorn.com/) and [King](https://www.king.com/), focusing on game design and development.
-
 You can find my software projects here on GitHub, as well as on [ragart-uoc](https://github.com/ragart-uoc) for my academic work, and on [funiber-edtech](https://github.com/funiber-edtech) for my professional projects in educational technology and translation.
 
 ### 🎓 **Education & Skills**
 
 I have a **Bachelor's Degree in Translation and Interpreting** from [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/) and a **Master's Degree in Game Design and Programming** from [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/).
+
+I was also part of a **Mentorship Program** with [Trojan Horse was a Unicorn](https://www.trojan-unicorn.com/) and [King](https://www.king.com/), where I had the opportunity to work with industry professionals and gain insights into game development and design.
 
 I primarily work with **Unity** and **C#**, but I can navigate 
 **Godot**, **Unreal**, and other engines as well. I also have experience with **Twine**, **Ren'Py**, and interactive fiction tools. You can check out my **[itch.io page](https://ragart.itch.io/)** for games I’ve made as part of my education or just for fun.
@@ -54,7 +54,7 @@ Here are the tools and technologies I use across different fields, from game dev
 [![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)](#)
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-### 🔄 Project Management and Collaboration
+#### 🔄 Project Management and Collaboration
 
 [![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](#)
