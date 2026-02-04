@@ -5,6 +5,8 @@
 [![EdTech](https://img.shields.io/badge/EdTech-F98012?style=for-the-badge)](#)
 [![Translation](https://img.shields.io/badge/Translation-4285F4?style=for-the-badge)](#)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ragart&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
 I'm a **technologist specializing in Learning & Language technologies** and a **narrative designer passionate about crafting immersive experiences**, based in Barcelona, Spain.
 
 ### **What I Do**
