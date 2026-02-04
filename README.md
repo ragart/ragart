@@ -21,9 +21,9 @@ I'm a **technologist specializing in Learning & Language technologies** and a **
 | Project | Description |
 |---------|-------------|
 | [![ragart.itch.io](https://img.shields.io/badge/ragart.itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ragart.itch.io/) | Games made as part of my education or just for fun |
-| [![Personal Projects](https://img.shields.io/badge/Personal_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragart-dom) | Experiments and personal coding projects |
-| [![ragart-uoc](https://img.shields.io/badge/ragart--uoc-73edff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ragart-uoc) | Academic work |
-| [![funiber-edtech](https://img.shields.io/badge/funiber--edtech-F98012?style=for-the-badge&logo=github&logoColor=white)](https://github.com/funiber-edtech) | Professional projects in educational technology and translation |
+| [![Personal Projects](https://img.shields.io/badge/Personal_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragart?tab=repositories) | Experiments and personal coding projects |
+| [![ragart-uoc](https://img.shields.io/badge/ragart--uoc-73edff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/orgs/ragart-uoc/repositories) | Academic work |
+| [![funiber-edtech](https://img.shields.io/badge/funiber--edtech-F98012?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/funiber-edtech/repositories) | Professional projects in educational technology and translation |
 
 ### **Education**
 
